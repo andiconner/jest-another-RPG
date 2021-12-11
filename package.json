@@ -1,0 +1,22 @@
+{
+  "name": "Jest-another-RPG",
+  "version": "1.0.0",
+  "description": "RPG with characters, enemies, and a game object. The user will have the choice to attack or use a potion to increase one of their three stats: strength, agility, and health. The simplest of all of the objects we'll need is a Potion object. The Potion object will only have a name and value.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andiconner/jest-another-RPG.git"
+  },
+  "author": "Andi Conner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andiconner/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/andiconner/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}
